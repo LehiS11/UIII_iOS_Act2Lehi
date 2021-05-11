@@ -82,7 +82,8 @@ class PaginaInicio extends StatelessWidget {
                         width: 5.0,
                       ),
                     ),
-
+),
+                    ),
                     //! Change the Focused Border
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
