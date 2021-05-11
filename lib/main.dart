@@ -37,7 +37,7 @@ class PaginaInicio extends StatelessWidget {
                   color: Colors.amber[50],
                   borderRadius: BorderRadius.circular(25),
                   border: Border.all(
-                    color: Colors.greenAccent,
+                    color: Colors.green,
                     width: 5,
                   ),
                 ),
@@ -64,7 +64,7 @@ class PaginaInicio extends StatelessWidget {
                       width: 5.0,
                     ),
                     bottom: BorderSide(
-                      color: Colors.greenAccent,
+                      color: Colors.green,
                       width: 5.0,
                     ),
                   ),
@@ -85,7 +85,7 @@ class PaginaInicio extends StatelessWidget {
                     //! Change the Focused Border
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
-                        color: Colors.greenAccent,
+                        color: Colors.green,
                         width: 5.0,
                       ),
                     ),
