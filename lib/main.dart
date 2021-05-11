@@ -41,7 +41,7 @@ class PaginaInicio extends StatelessWidget {
                     width: 5,
                   ),
                 ),
-                child: Center(
+                child:center(
                   child: Text(
                     'Lehi Hernandez',
                     style: TextStyle(fontSize: 22),
@@ -91,13 +91,10 @@ class PaginaInicio extends StatelessWidget {
                         width: 5.0,
                       ),
                     ),
-                  
-                
-                  child: Center(
                   child: Text(
                     'Lehi Hernandez',
                     style: TextStyle(fontSize: 16),
-                      ),
+                      
                           ),
               ), //Fin Container 3
             ], //Fin del children
