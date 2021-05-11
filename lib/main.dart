@@ -82,12 +82,13 @@ class PaginaInicio extends StatelessWidget {
                         width: 5.0,
                       ),
                     ),
-),
-                    ),
-                  child: Text(
+                      child: Text(
                     'Lehi Hernandez',
                     style: TextStyle(fontSize: 16),
                           ),
+),
+                    ),
+                  
                     //! Change the Focused Border
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
