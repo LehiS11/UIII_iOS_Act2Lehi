@@ -90,8 +90,8 @@ class PaginaInicio extends StatelessWidget {
                         width: 5.0,
                       ),
                     ),
-                  ),
-                ),
+                  
+                
                   child: Center(
                   child: Text(
                     'Lehi Hernandez',
