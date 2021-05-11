@@ -91,13 +91,13 @@ class PaginaInicio extends StatelessWidget {
                       ),
                     ),
                   ),
-                  child: Center(
-                    child: Text(
-                      'Lehi Hernandez',
-                      style: TextStyle(fontSize: 16),
-                    ),
-                  ),
                 ),
+                  child: Center(
+                  child: Text(
+                    'Lehi Hernandez',
+                    style: TextStyle(fontSize: 16),
+                      ),
+                          ),
               ), //Fin Container 3
             ], //Fin del children
           ), //Fin Column
