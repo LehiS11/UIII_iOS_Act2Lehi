@@ -60,7 +60,7 @@ class PaginaInicio extends StatelessWidget {
                 decoration: BoxDecoration(
                   border: Border(
                     top: BorderSide(
-                      color: Colors.greenAccent,
+                      color: Colors.green,
                       width: 5.0,
                     ),
                     bottom: BorderSide(
@@ -78,7 +78,7 @@ class PaginaInicio extends StatelessWidget {
                   decoration: InputDecoration(
                     enabledBorder: OutlineInputBorder(
                       borderSide: BorderSide(
-                        color: Colors.greenAccent,
+                        color: Colors.green,
                         width: 5.0,
                       ),
                     ),
