@@ -84,6 +84,12 @@ class PaginaInicio extends StatelessWidget {
                     ),
 ),
                     ),
+                  child:center(
+                  child: Text(
+                    'Lehi Hernandez',
+                    style: TextStyle(fontSize: 16),
+                      ),
+                          ),
                     //! Change the Focused Border
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
@@ -91,11 +97,6 @@ class PaginaInicio extends StatelessWidget {
                         width: 5.0,
                       ),
                     ),
-                  child: Text(
-                    'Lehi Hernandez',
-                    style: TextStyle(fontSize: 16),
-                      
-                          ),
               ), //Fin Container 3
             ], //Fin del children
           ), //Fin Column
