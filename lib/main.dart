@@ -97,6 +97,4 @@ class PaginaInicio extends StatelessWidget {
         ),
       ), //Fin signle
     ); //Fin Scaffold
-  }
-}
-}
+ 
