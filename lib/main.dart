@@ -34,10 +34,10 @@ class PaginaInicio extends StatelessWidget {
                 height: 100,
                 width: 200,
                 decoration: BoxDecoration(
-                  color: Colors.amber,
+                  color: Colors.greenAccent,
                   borderRadius: BorderRadius.circular(25),
                   border: Border.all(
-                    color: Colors.green,
+                    color: Colors.greenAccent,
                     width: 5,
                   ),
                 ),
@@ -60,11 +60,11 @@ class PaginaInicio extends StatelessWidget {
                 decoration: BoxDecoration(
                   border: Border(
                     top: BorderSide(
-                      color: Colors.green,
+                      color: Colors.greenAccent,
                       width: 5.0,
                     ),
                     bottom: BorderSide(
-                      color: Colors.green,
+                      color: Colors.greenAccent,
                       width: 5.0,
                     ),
                   ),
@@ -78,14 +78,14 @@ class PaginaInicio extends StatelessWidget {
                   decoration: InputDecoration(
                     enabledBorder: OutlineInputBorder(
                       borderSide: BorderSide(
-                        color: Colors.green,
+                        color: Colors.greenAccent,
                         width: 5.0,
                       ),
                     ),
                     //! Change the Focused Border
                     focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
-                        color: Colors.green,
+                        color: Colors.greenAccent,
                         width: 5.0,
                       ),
                     ),
@@ -97,4 +97,5 @@ class PaginaInicio extends StatelessWidget {
         ),
       ), //Fin signle
     ); //Fin Scaffold
- 
+  }
+}
