@@ -44,7 +44,7 @@ class PaginaInicio extends StatelessWidget {
                 child: Center(
                   child: Text(
                     'Lehi Hernandez',
-                    style: TextStyle(fontSize: 18),
+                    style: TextStyle(fontSize: 22),
                   ),
                 ),
               ), //Fin Container texto
@@ -55,7 +55,7 @@ class PaginaInicio extends StatelessWidget {
                 width: 100,
                 child: Image.asset(
                   'assets/img_lehi.jpg',
-                  width: 100.0,
+                  width: 250.0,
                 ),
                 decoration: BoxDecoration(
                   border: Border(
