@@ -51,8 +51,8 @@ class PaginaInicio extends StatelessWidget {
 
               SizedBox(height: 50),
               Container(
-                height: 250,
-                width: 250,
+                height: 165,
+                width: 165,
                 child: Image.asset(
                   'assets/img_lehi.jpg',
                   width: 250.0,
